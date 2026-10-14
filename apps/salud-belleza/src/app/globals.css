@@ -1,0 +1,11 @@
+@import '@mantine/core/styles.css';
+@import '@potenciapp/landing-core/theme/tokens.css';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
